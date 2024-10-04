@@ -115,4 +115,4 @@ eval "$(/Users/tylerfry/Sites/dev-cmd/bin/dev init -)"
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 export GOPATH=$HOME/sites/go
-export NPM_TOKEN=75885cb1-d538-42f1-afcd-8b1eaaf4e895
+
